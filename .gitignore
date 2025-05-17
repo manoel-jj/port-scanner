@@ -1,0 +1,28 @@
+# created by virtualenv automatically
+.venv/bin
+# Pastas geradas pelo Python/IDE
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambiente virtual Python
+.venv/
+venv/
+env/
+
+# Configurações do PyCharm
+.idea/
+.vscode/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de cache/log
+*.log
+*.tmp
+
+# Arquivos de configuração sensíveis
+*.cfg
+*.key
+*.secret
