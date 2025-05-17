@@ -78,14 +78,9 @@ Programação: Código modular, com tratamento de erros e interface amigável.
 Cibersegurança: Desenvolvimento de ferramentas de pentest com ética.
 Documentação: Comunicação clara de conceitos técnicos.
 
-Possíveis Melhorias
 
-Suporte a escaneamento UDP.
-Exportação de resultados em JSON ou CSV.
-Detecção de serviços nas portas abertas (ex.: HTTP, SSH).
-Interface gráfica (GUI) para facilitar o uso.
 
-Como Contribuir
+Como Contribuir:
 Sinta-se à vontade para abrir issues ou pull requests com sugestões ou melhorias!
 Contato
 
